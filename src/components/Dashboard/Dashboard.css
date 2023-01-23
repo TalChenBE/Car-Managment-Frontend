@@ -1,0 +1,13 @@
+.Dashboard-title {
+  text-align: center;
+  margin: 20px;
+}
+.Dashboard-p {
+  margin: 20px;
+}
+
+.Dashboard-loading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
